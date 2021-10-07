@@ -1,0 +1,40 @@
+body {
+    font-family: 'Akronim', cursive;
+    background: rgb(134, 4, 255);
+  }
+  
+  .header_div
+  {
+      background: rgb(119, 0, 255);
+      color: rgb(0, 0, 0);
+  }
+  
+  .header_div p
+  {
+      font-family: 'Akronim', cursive;
+      color:black;
+      letter-spacing: 2px;
+      font-size:30px;
+      font-weight: bold;
+  }
+  
+  .main_div button{
+      font-family: 'Akronim', cursive;
+      margin-top:30px;
+      width: 100%;
+      font-weight: bold;
+      letter-spacing: 2px;
+  }
+  
+  .copy_right_footer {
+      position: fixed;
+      color: black;
+      width: 100%;
+      font-size: 20px;
+      background-color: rgb(132, 0, 255);
+      line-height: 3px;
+      text-align: center;
+      text-shadow: rgb(0, 0, 0);
+  } 
+  
+  
